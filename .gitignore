@@ -1,0 +1,10 @@
+# Ignore Word documents
+*.docx
+*.doc
+
+# Ignore system files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
