@@ -1,10 +1,8 @@
 
 # Concrete Surface Crack Detection and Measurement
-### Using Classical Computer Vision — No OpenCV, No Deep Learning
+### Using Classical Computer Vision: No OpenCV, No Deep Learning
 
 **CSC-752: Computer Vision | University of South Dakota | April 2026**
-
-**Team:** Alam Md Jahangir, Asare Isaac, Bastola Manish, Bekoe Kwame, Borra Lavanya Sathish Raviteja
 
 ---
 
